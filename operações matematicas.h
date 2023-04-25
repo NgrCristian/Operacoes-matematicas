@@ -24,6 +24,6 @@ main(){
 	printf("A raiz quadrada da soma dos quadrados eh:%.1f\n",raiz);
 	
 	modulo=n1*-1;
-	printf(" módulo do primeiro número eh:%.1f\n",modulo);
+	printf(" mÃ³dulo do primeiro nÃºmero eh:%.1f\n",modulo);
 	
 }
